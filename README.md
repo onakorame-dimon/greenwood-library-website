@@ -1,6 +1,8 @@
 # greenwood-library-website
 
-**CapStone Project: Enhancing A community Library Website**
+**Darey.io Capstone Project** 
+
+**Project Title: Enhancing A community Library Website**
 
 **Background Scenario:** 
 
@@ -14,7 +16,7 @@ The website aims to be more engaging and informative for its visitors. It curren
 
 Your team decides to add a __"Book Reviews"__ section and update the __"Events"__ page to feature upcoming community events. 
 
-You will simulate the roles of two contributors "morgan" and "jamie". Morgan will focus on adding the "Book Reviews" section, while Jamie will update the"Events" page with new community events. 
+You will simulate the role of a contributor "morgan." Morgan will focus on adding the "Book Reviews" section. 
 
 __Objectives:__
 
@@ -108,6 +110,8 @@ After staging, the files can be commited to the local repository using the `git 
 Pushing the files to the remote repository. 
 
 ![Push to remote](./img/git_push.jpg)
+
+We have successfully simulated the existing code base for the website.
 
 __Morgan's work: Adding Book Reviews__
 
